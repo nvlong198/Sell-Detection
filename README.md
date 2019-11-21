@@ -1,2 +1,2 @@
 # Sell-Detection
-Sell Detection - Tran Mai Vu
+Sell Detection - Data Mining Course, Tran Mai Vu
